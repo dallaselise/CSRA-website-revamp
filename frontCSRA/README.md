@@ -1,0 +1,3 @@
+I have volunteered on and off with the Cocker Spaniel Rescue of Austin & San Antonio for ~9 years.  It's a non profit organization that is completely volunteer based.  I've had a few different roles as a volunteer.  Now that I am in software development I saw the opportunity to freshen up the website.  I believe it's last updating was 2016.  There are lots of opportunities to make the website more user friendly while keeping it dynamic.
+
+In this particular setup, I am solely focused on the front end aspect.  
